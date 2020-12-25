@@ -1,4 +1,4 @@
-# AGBulkMinerReleases
+# AGBulkMinerReleases: Click the Releases tab for current versions!
 ## Please leave a post on the Issues page if you encounter a problem or wish to leave feedback! Beta testers included!
 Release binaries for for AG's Forge mod "The Strip-Miner's Toolchest".
 Anything published by "Afroduckie" on Github is authored by AndrielGaming William.
